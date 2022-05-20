@@ -1,0 +1,30 @@
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpDTO\bin\Debug\EmpDTO.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.AssemblyReference.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.csproj.CoreCompileInputs.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpDTO\obj\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpDTO\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpDTO\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpDTO\obj\Debug\EmpDTO.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpDTO\obj\Debug\EmpDTO.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpDTO\obj\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpDTO\obj\Debug\EmpDTO.pdb

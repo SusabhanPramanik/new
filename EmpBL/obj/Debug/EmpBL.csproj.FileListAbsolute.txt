@@ -1,0 +1,84 @@
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\obj\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpBL\obj\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CopyComplete
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpBL\obj\Debug\EmpBL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpBL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpBL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpDTO.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EntityFramework.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpDAL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpDAL.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EmpDTO.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\bin\Debug\EntityFramework.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.AssemblyReference.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CoreCompileInputs.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\obj\Debug\EmpBL.csproj.CopyComplete
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\obj\Debug\EmpBL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpBL\obj\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\obj\Debug\EmpBL.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\obj\Debug\EmpBL.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\obj\Debug\EmpBL.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\obj\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpBL\obj\Debug\EmpBL.pdb

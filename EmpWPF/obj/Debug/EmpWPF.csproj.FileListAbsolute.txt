@@ -1,0 +1,239 @@
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.g.cs
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\App.g.cs
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.lref
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.baml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.g.resources
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.Properties.Resources.resources
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.GenerateResource.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.exe
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\MainWindow.baml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\ViewEmployeeDetails.g.cs
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\ViewEmployeeDetails.baml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CopyComplete
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\App.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.lref
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.g.resources
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.Properties.Resources.resources
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.GenerateResource.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\MainWindow.baml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.baml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.baml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\App.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.lref
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\Prism.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.baml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.baml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.g.resources
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.Properties.Resources.resources
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.GenerateResource.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\Views\Home.g.cs
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\obj\Debug\Views\Home.baml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\FsCheck.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\FSharp.Core.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\FsCheck.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpWPF\bin\Debug\FSharp.Core.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpBL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\FsCheck.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\FSharp.Core.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\Prism.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpBL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\FsCheck.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\FSharp.Core.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\Prism.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\Prism.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.AssemblyReference.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\Views\Home.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\App.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.lref
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.baml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.baml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\Views\Home.baml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.g.resources
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.Properties.Resources.resources
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.GenerateResource.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CoreCompileInputs.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CopyComplete
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.exe
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe.config
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.exe
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpWPF.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpBL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\FsCheck.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\FSharp.Core.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\Prism.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.dll
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpAPI.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpBL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpDAL.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EmpDTO.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\FsCheck.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\FSharp.Core.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\Prism.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\Prism.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\bin\Debug\EntityFramework.xml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.AssemblyReference.cache
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\Home.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\App.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.cache
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF_MarkupCompile.lref
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\DepartmentDetails.baml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\EmployeeDetails.baml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\Home.baml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.g.resources
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.Properties.Resources.resources
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.GenerateResource.cache
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CoreCompileInputs.cache
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.csproj.CopyComplete
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.exe
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\EmpWPF.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\Login.baml
+C:\Users\susab\OneDrive\Desktop\Wok\Final Project\WPFEmployee\EmpWPF\obj\Debug\Views\Login.g.cs

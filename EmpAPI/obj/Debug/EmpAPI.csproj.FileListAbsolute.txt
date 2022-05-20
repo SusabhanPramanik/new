@@ -1,0 +1,468 @@
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpAPI.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\csc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\csc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\csc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\csi.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\csi.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\csi.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Console.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\vbc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\System.Web.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\System.Web.Http.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\bin\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\DDALADONETEF\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpAPI.dll.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpAPI.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpAPI.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.exe
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.exe.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.rsp
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.exe
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.exe.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.rsp
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Console.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.rsp
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpBL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDTO.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDAL.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpBL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDTO.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDAL.pdb
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDAL.dll.config
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CopyComplete
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpAPI.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Console.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\bin\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpAPI.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\csc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\csi.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Console.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\vbc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\bin\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\WPF Employee Copy - Copy\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpAPI.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpAPI.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpAPI.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\csc.exe
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\csc.exe.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\csc.rsp
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\csi.exe
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\csi.exe.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\csi.rsp
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.AppContext.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Console.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\vbc.exe.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\vbc.rsp
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpBL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpDTO.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EntityFramework.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\System.Web.Http.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpDAL.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpBL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpDTO.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EntityFramework.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\Newtonsoft.Json.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\System.Web.Http.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpDAL.pdb
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\bin\EmpDAL.dll.config
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.AssemblyReference.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.csproj.CopyComplete
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.dll
+C:\Users\susab\OneDrive\Desktop\Wok\WPFEmployee\EmpAPI\obj\Debug\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpAPI.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpAPI.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\csc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\csc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\csc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\csi.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\csi.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\csi.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Console.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\vbc.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\vbc.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\vbc.rsp
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpBL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpDTO.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EntityFramework.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\Newtonsoft.Json.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\System.Web.Http.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpDAL.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpBL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpDTO.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EntityFramework.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\Newtonsoft.Json.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\System.Web.Http.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpDAL.pdb
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\bin\EmpDAL.dll.config
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\obj\Debug\EmpAPI.csproj.AssemblyReference.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\obj\Debug\EmpAPI.csproj.CoreCompileInputs.cache
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\obj\Debug\EmpAPI.csproj.CopyComplete
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\obj\Debug\EmpAPI.dll
+C:\Users\ramar\Desktop\C-Sharp DotNet\Employee_WPF\EmpAPI\obj\Debug\EmpAPI.pdb
